@@ -4,6 +4,10 @@ An implementation of SAP-1 in Logisim | Boyd Thomas - Dec. 2020
 ## Summary
 This circuit is a loose implementation of Albert Paul Malvino's SAP-1 computer. It uses 4-bit addresses, 8-bit registers, 8-bit instructions, and has eight instructions.
 
+## Todo
+* Conditional Jump
+* Larger Address Space
+
 ## Memory
 The memory in this computer is very limited (only 15 bytes). This memory holds the program and any memory that is written to or read from by that program.
 
